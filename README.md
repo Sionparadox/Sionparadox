@@ -3,7 +3,6 @@
 **Web FrontEnd Developer**  
 [![Blog](https://img.shields.io/badge/Personal%20Blog-Visit-blue?style=flat-square)](https://sionparadox.github.io/)
 
----
 
 ## 🚀 Tech Stacks
 
@@ -13,7 +12,6 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
----
 
 ## 📓 Algorithm Skills
 
