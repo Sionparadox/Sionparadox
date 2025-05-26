@@ -1,7 +1,7 @@
 ## 👨🏻‍💻 SionParadox
 
 **Web FrontEnd Developer**  
-[My Personal Blog](https://sionparadox.github.io/)
+[![Blog](https://img.shields.io/badge/My%20Personal%20Blog-green?style=for-the-badge)](https://sionparadox.github.io/)
 
 ## 🚀 Tech Stacks
 
