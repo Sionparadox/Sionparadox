@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=11F729&repeat=false&width=435&lines=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EB%B0%95%EC%8B%9C%EC%98%A8%EC%9E%85%EB%8B%88%EB%8B%A4.)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=11F729&repeat=false&width=435&lines=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EB%B0%95%EC%8B%9C%EC%98%A8%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sion9999)](https://solved.ac/sion9999) 
 
